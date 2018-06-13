@@ -1,9 +1,10 @@
 # TensorFlow Optimized Wheels
 Collection of Tensorflow wheels for various hardware for the MSc project 
 
-* AMD-Propus-tensorflow-1.6.0-cp27-cp27mu-linux_x86_64 - No AVX
+### Target Hardware 
+* AMD Propus cores, No AVX - https://en.wikipedia.org/wiki/List_of_AMD_Phenom_microprocessors#Athlon_II_series_(Phenom_II-based)
 
-* SP4-VBox-tensorflow-1.6.0-cp27-cp27mu-linux_x86_64 - AVX AVX2 SSE4.2
+* SP4 i7-6650u Virtual Box, AVX AVX2 SSE4.2
 
 Avoids:
 ```
