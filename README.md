@@ -2,7 +2,7 @@
 Collection of Tensorflow wheels for various hardware for the MSc project 
 
 ### Target Hardware 
-* AMD Propus cores, No AVX - https://en.wikipedia.org/wiki/List_of_AMD_Phenom_microprocessors#Athlon_II_series_(Phenom_II-based)
+* AMD K10 cores, No AVX - https://en.wikipedia.org/wiki/AMD_10h
 
 * SP4 i7-6650u Virtual Box, AVX AVX2 SSE4.2
 
