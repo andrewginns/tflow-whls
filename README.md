@@ -1,7 +1,7 @@
-# tflow-whls
-Collection of Tensorflow wheels
+# TensorFlow Optimized Wheels
+Collection of Tensorflow wheels for various hardware for the MSc project 
 
-* AMDtensorflow-1.6.0-cp27-cp27mu-linux_x86_64 - No AVX
+* AMD-Propus-tensorflow-1.6.0-cp27-cp27mu-linux_x86_64 - No AVX
 
 * SP4-VBox-tensorflow-1.6.0-cp27-cp27mu-linux_x86_64 - AVX AVX2 SSE4.2
 
