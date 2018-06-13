@@ -1,5 +1,7 @@
 # TensorFlow Optimized Wheels
-Collection of Tensorflow wheels for various hardware for the MSc project 
+Collection of Tensorflow wheels for various hardware for the MSc project
+
+# All .whl files https://github.com/andrewginns/tflow-whls/releases
 
 ### Target Hardware 
 * AMD K10 cores, No AVX - https://en.wikipedia.org/wiki/AMD_10h
