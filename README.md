@@ -6,7 +6,9 @@ Collection of Tensorflow wheels for various hardware for the MSc project
 ### Target Hardware 
 * AMD K10 cores, No AVX - https://en.wikipedia.org/wiki/AMD_10h
 
-* SP4 i7-6650u Virtual Box, AVX AVX2 SSE4.2
+* SP4 i7-6650u Virtual Box, SSE4.1 SSE4.2 AVX AVX2
+
+* Macbook Pro 14,3 macOS 10.13, SSE4.1 SSE4.2 AVX AVX2 FMA
 
 Avoids:
 ```
